@@ -1,4 +1,3 @@
-# ...existing code...
 import tkinter as tk
 from tkinter import messagebox
 
@@ -61,7 +60,7 @@ def menu_inicial():
                 res = calc.dividir(n1, n2)
             else:
                 return
-            result_var.set(f"Resultado: {res}")
+            result_var.set(f"Resultado: {res:.3f}")
         except Exception as e:
             messagebox.showerror("Erro", str(e))
 
