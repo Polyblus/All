@@ -1,2 +1,3 @@
-# All
-Just some random projects and codes.
+# Exercícios e Códigos aleatórios em Python
+
+Apenas copie e cole todos códigos, simples :)
